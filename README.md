@@ -33,7 +33,7 @@ We show that this method generalizes classical attention and naturally connects 
 
 The full text of the article is available in the repository:
 
-📄 [Read the article](Attention-Through-Feature-Space.md)
+📄 [Read the full article](article/Attention-Through-Feature-Space.md)
 
 ---
 
