@@ -158,7 +158,8 @@ $$
 Трансформер принимает контекст, а выдаёт смысл.
 О том, что такое смысл, как он возникает и почему он не передаётся, а рождается на стыке двух ядер, мы подробно говорим в статье:
 «Мяч, траектории и энтропия: Свобода, ложь и правда в модели динамики смысла»
-[[resonance-of-meaning/Ball_Trajectories_Entropy]]
+[Ball, Trajectories and Entropy](https://github.com/rekaasb/resonance-of-meaning/blob/main/Ball%2C%20Trajectories%20and%20Entropy%3A%20Freedom%2C%20Lie%20and%20Truth%20in%20a%20Model%20of%20Meaning%20Dynamics.md)
+[Мяч, траектории и энтропия](https://github.com/rekaasb/resonance-of-meaning/blob/main/Ball_Trajectories_Entropy.md)
 ## Литература
 
 1. Abdullin R., DeepSeek. Внимание через пространство признаков. — 2026.
